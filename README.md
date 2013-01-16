@@ -1,4 +1,4 @@
-#RobotQ-A stupid robot
+#RobotQ - A stupid robot
 
 因为这个没有用到正则表达式，所以这个机器人有点笨。
 原理就是用户教RobotQ的时候创建一个文件，文件名为
